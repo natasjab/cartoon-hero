@@ -3,27 +3,28 @@ body{
 }
 
 h1{
-		color: orange;
-		font-size: 90px;
-		text-decoration: underline;
-	}
-	h2{
-		font-size: 22px;
-		color:limegreen;
-	}
+	color: orange;
+	font-size: 90px;
+	text-decoration: underline;
+}
 
-	#first{
-		font-size: 150px;
-	}
+h2{
+	font-size: 22px;
+	color:limegreen;
+}
 
-	.small{
-		font-size:12px;
-	}
+#first{
+	font-size: 150px;
+}
 
-	span{
-		font-style: italic;
-	}
+.small{
+	font-size:12px;
+}
 
-	h2 span{
-		text-decoration: line-through;
-	}
+span{
+	font-style: italic;
+}
+
+h2 span{
+	text-decoration: line-through;
+}
